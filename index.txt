@@ -8,21 +8,21 @@
 "tv_name": "",
 "urls": [
 {
-"name": "Link 1 (English)",
+"name": "Premium Link",
 "banner": "",
 "link": "https://sportsleading.online/live/stream_e1.m3u8",
 "web": "https://sportsleading.online/live/stream_e1.m3u8",
 "isRedirect": false
 },
 {
-"name": "Link 2 (Assured)",
+"name": "Link 1 (Assured)",
 "banner": "",
 "link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
 "web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
 "isRedirect": false
 },
 {
-"name": "Premium Link",
+"name": "Link 2 (English)",
 "banner": "",
 "link": "https://sportsleading.online/live/stream_e1.m3u8",
 "web": "https://sportsleading.online/live/stream_e1.m3u8",
@@ -37,6 +37,42 @@
 }
 ]
 },
+{
+"match_name": "Australia vs Pakistan",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 1 (Assured)",
+"banner": "",
+"link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (English)",
+"banner": "",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"isRedirect": false
+}
+]
+},
+
 {
 "match_name": "NED vs SL (21 Oct)",
 "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-netherlands-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-21-4-51.jpg",
