@@ -45,29 +45,29 @@
 {
 "name": "Link 1 (English)",
 "banner": "",
-"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
 "web": "https://sportsleading.online/live/stream_e1.m3u8",
 "isRedirect": false
 },
 {
 "name": "Link 2 (Assured)",
 "banner": "",
-"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
 "isRedirect": false
 },
 {
 "name": "Premium Link",
 "banner": "",
-"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
 "isRedirect": false
 },
 {
 "name": "Link 3",
 "banner": "",
-"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
 "isRedirect": false
 }
 ]
@@ -80,28 +80,28 @@
 {
 "name": "Link 1 (English)",
 "banner": "",
-"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
 "web": "https://sportsleading.online/live/stream_e1.m3u8",
 "isRedirect": false
 },
 {
 "name": "Link 2 (Assured)",
 "banner": "",
-"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
 "web": "https://sportsleading.online/live/stream_e2.m3u8",
 "isRedirect": false
 },
 {
 "name": "Premium Link",
 "banner": "",
-"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"link": "https://sportsleading.online/live/stream_e1.m3u88",
 "web": "https://sportsleading.online/live/stream_e2.m3u8",
 "isRedirect": false
 },
 {
 "name": "Link 3",
 "banner": "",
-"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
 "web": "https://sportsleading.online/live/stream_e3.m3u8",
 "isRedirect": false
 }
