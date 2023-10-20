@@ -1,0 +1,538 @@
+{
+"league_name": "Sports Channel",
+"banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
+"match": [
+{
+"match_name": "IND vs BAN (19 Oct)",
+"banner": "https://i0.wp.com/ticketsearch.in/wp-content/uploads/2023/09/ind-vs-ban-tickets-1.webp?fit=1200%2C675&ssl=1",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://sportsleading.online/live/stream_e1.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"web": "http://cdn.live247stream.com/thelight/tv/playlist.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "AUS vs PAK (20 Oct)",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "NED vs SL (21 Oct)",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-netherlands-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-21-4-51.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "ENG vs SA (21 Oct)",
+"banner": "https://ticketnews.in/wp-content/uploads/2023/09/ENG-vs-SA.webp",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "IND vs NZ (22 Oct)",
+"banner": "https://ticketsearch.in/wp-content/uploads/2023/09/ind-vs-nz-world-cup-tickets.webp",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "PAK vs AFG (23 Oct)",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-pakistan-vs-afghanistan-icc-mens-cwc-2023-0-2023-8-23-t-21-55-9.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "SA vs BAN (24 Oct)",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-south-africa-vs-bangladesh-icc-mens-cwc-2023-0-2023-8-23-t-19-59-8.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "AUS vs NED (25 Oct)",
+"banner": "https://assets-in.bmscdn.com/discovery-catalog/events/et00367573-lmwrpfwhzu-landscape.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "ENG vs SL (26 Oct)",
+"banner": "https://ticketnews.in/wp-content/uploads/2023/09/ENG-vs-SL.webp",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "PAK vs SA (27 Oct)",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-pakistan-vs-south-africa-icc-mens-cwc-2023-0-2023-8-23-t-21-56-45.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "AUS vs NZ (28 Oct)",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-australia-vs-new-zealand-icc-mens-cwc-2023-0-2023-8-23-t-21-47-45.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "NED vs BAN (28 Oct)",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-netherlands-vs-bangladesh-icc-mens-cwc-2023-0-2023-8-23-t-21-22-50.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "IND vs ENG (29 Oct)",
+"banner": "https://ticketsearch.in/wp-content/uploads/2023/09/ind-vs-eng-lucknow-tickets.webp",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "AFG vs SL (30 Oct)",
+"banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-afghanistan-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-20-10-0.jpg",
+"tv_name": "",
+"urls": [
+{
+"name": "Link 1 (English)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e1.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 2 (Assured)",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Premium Link",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e2.m3u8",
+"isRedirect": false
+},
+{
+"name": "Link 3",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://sportsleading.online/live/stream_e3.m3u8",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "Sony Sport 1",
+"banner": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/mpb-bento-live-pbs/Images/Television/STREAM%20LIVE/2db5d48f0d_WatchLIVETV.png",
+"tv_name": "sonyten1_hd",
+"urls": [
+{
+"name": "Link 1",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://ramappsdeveloper.com/inhouse/tv/channel/sonyten1_hd.php",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "Star Sports English",
+"banner": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/mpb-bento-live-pbs/Images/Television/STREAM%20LIVE/2db5d48f0d_WatchLIVETV.png",
+"tv_name": "star_sports_english_",
+"urls": [
+{
+"name": "Link 1",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://ramappsdeveloper.com/inhouse/tv/channel/star_sports_english.php",
+"isRedirect": false
+}
+]
+},
+{
+"match_name": "Star Sports Hindi",
+"banner": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/mpb-bento-live-pbs/Images/Television/STREAM%20LIVE/2db5d48f0d_WatchLIVETV.png",
+"tv_name": "star_sports_hindi",
+"urls": [
+{
+"name": "Link 1",
+"banner": "",
+"link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+"web": "https://ramappsdeveloper.com/inhouse/tv/channel/star_sports_hindi.php",
+"isRedirect": false
+}
+]
+}
+]
+}
