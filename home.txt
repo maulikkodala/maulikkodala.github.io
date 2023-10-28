@@ -1,0 +1,27 @@
+{
+"league_name": "Sports Channel",
+"banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
+"match": [
+{
+"name": "ICC Cricket World Cup 2023",
+"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"ischeck": false
+},
+{
+"name": "Zimbabwe tour of Namibia 2023",
+"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"ischeck": false
+},
+{
+"name": "ICC Mens T20I World Cup Asia Finals 2023",
+"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"ischeck": false
+},
+{
+"name": "Pakistan Womens tour of Bangladesh, 2023",
+"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"ischeck": false
+}
+
+]
+}
