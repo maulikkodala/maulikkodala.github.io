@@ -4,22 +4,26 @@
 "match": [
 {
 "name": "ICC Cricket World Cup 2023",
-"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"image": "https://img.onesignal.com/tmp/a659fdbc-0658-4b39-9e3e-52400783be6a/h5pYQLHTQ3GXIdWr4jmr_cricket%201.png",
+"link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 },
 {
 "name": "Zimbabwe tour of Namibia 2023",
-"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"image": "https://img.onesignal.com/tmp/a659fdbc-0658-4b39-9e3e-52400783be6a/h5pYQLHTQ3GXIdWr4jmr_cricket%201.png",
+"link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 },
 {
 "name": "ICC Mens T20I World Cup Asia Finals 2023",
-"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"image": "https://img.onesignal.com/tmp/a659fdbc-0658-4b39-9e3e-52400783be6a/h5pYQLHTQ3GXIdWr4jmr_cricket%201.png",
+"link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 },
 {
 "name": "Pakistan Womens tour of Bangladesh, 2023",
-"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-australia-vs-pakistan-icc-mens-cwc-2023-0-2023-8-23-t-22-17-17.jpg",
+"image": "https://img.onesignal.com/tmp/a659fdbc-0658-4b39-9e3e-52400783be6a/h5pYQLHTQ3GXIdWr4jmr_cricket%201.png",
+"link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 }
 
