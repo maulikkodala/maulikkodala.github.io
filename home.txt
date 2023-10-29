@@ -4,7 +4,7 @@
 "match": [
 {
 "name": "ICC Cricket World Cup 2023",
-"image": "https://img.onesignal.com/tmp/53662dbc-a9e6-4165-87d8-5dea3c0d68aa/CXcsy6hHSlG1bhKnfZfG_Rectangle%208.png",
+"image": "https://img.onesignal.com/tmp/0784d830-b73f-46ac-99a2-d48c8dc0477d/G7wNdxWRTJmUgkK95yZH_wwwwww%201.png",
 "link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 },
