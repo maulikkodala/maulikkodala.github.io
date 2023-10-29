@@ -4,28 +4,15 @@
 "match": [
 {
 "name": "ICC Cricket World Cup 2023",
-"image": "https://img.onesignal.com/tmp/a659fdbc-0658-4b39-9e3e-52400783be6a/h5pYQLHTQ3GXIdWr4jmr_cricket%201.png",
+"image": "https://img.onesignal.com/tmp/53662dbc-a9e6-4165-87d8-5dea3c0d68aa/CXcsy6hHSlG1bhKnfZfG_Rectangle%208.png",
 "link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 },
 {
 "name": "Zimbabwe tour of Namibia 2023",
-"image": "https://img.onesignal.com/tmp/a659fdbc-0658-4b39-9e3e-52400783be6a/h5pYQLHTQ3GXIdWr4jmr_cricket%201.png",
-"link" : "https://maulikkodala.github.io/index.txt",
-"ischeck": false
-},
-{
-"name": "ICC Mens T20I World Cup Asia Finals 2023",
-"image": "https://img.onesignal.com/tmp/a659fdbc-0658-4b39-9e3e-52400783be6a/h5pYQLHTQ3GXIdWr4jmr_cricket%201.png",
-"link" : "https://maulikkodala.github.io/index.txt",
-"ischeck": false
-},
-{
-"name": "Pakistan Womens tour of Bangladesh, 2023",
-"image": "https://img.onesignal.com/tmp/a659fdbc-0658-4b39-9e3e-52400783be6a/h5pYQLHTQ3GXIdWr4jmr_cricket%201.png",
+"image": "https://img.onesignal.com/tmp/69541054-b4fc-4ea0-b7c8-916f3e6f6897/q3qLlRf0QqOLrotCkBDo_Rectangle%209.png",
 "link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 }
-
 ]
 }
