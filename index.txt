@@ -3,9 +3,10 @@
   "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
   "match": [
     
-    {
-      "match_name": "IND vs ENG (29 Oct)",
-      "banner": "https://ticketsearch.in/wp-content/uploads/2023/09/ind-vs-eng-lucknow-tickets.webp",
+  
+ {
+      "match_name": "AFG vs SL (30 Oct)",
+      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-afghanistan-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-20-10-0.jpg",
       "tv_name": "fan_code",
       "urls": [
       {
@@ -39,41 +40,7 @@
         }
       ]
     },
-    {
-      "match_name": "AFG vs SL (30 Oct)",
-      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-afghanistan-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-20-10-0.jpg",
-      "tv_name": "",
-      "urls": [
-        {
-          "name": "Link 1 (English)",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e1.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 2 (Assured)",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Premium Link",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e2.m3u8",
-          "isRedirect": false
-        },
-        {
-          "name": "Link 3",
-          "banner": "",
-          "link": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
-          "web": "https://sportsleading.online/live/stream_e3.m3u8",
-          "isRedirect": false
-        }
-      ]
-    },
+
     {
       "match_name": "Sony Sport 1",
       "banner": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/mpb-bento-live-pbs/Images/Television/STREAM%20LIVE/2db5d48f0d_WatchLIVETV.png",
