@@ -13,29 +13,29 @@
       
           "name": "Link 1 (English)",
           "banner": "",
-            "link": "https://astro.cric-streamiing.repl.co/",
-          "web": "https://astro.cric-streamiing.repl.co/",
+          "link": "https://hls.streambtw.com/live/stream_e1.m3u8",
+          "web": "https://hls.streambtw.com/live/stream_e1.m3u8",
           "isRedirect": false
         },
         {
           "name": "Link 2 (Assured)",
           "banner": "",
-          "link": "https://willow.cric-streamiing.repl.co/",
-          "web": "https://willow.cric-streamiing.repl.co/",
+          "link": "https://hls.streambtw.com/live/stream_e1.m3u8",
+          "web": "https://hls.streambtw.com/live/stream_e1.m3u8",
           "isRedirect": false
         },
         {
           "name": "Premium Link",
           "banner": "",
-          "link": "https://astro.cric-streamiing.repl.co/",
-          "web": "https://astro.cric-streamiing.repl.co/",
+          "link": "https://hls.streambtw.com/live/stream_e1.m3u8",
+          "web": "https://hls.streambtw.com/live/stream_e1.m3u8",
           "isRedirect": false
         },
         {
           "name": "Link 3",
           "banner": "",
-         "link": "https://willow.cric-streamiing.repl.co/",
-          "web": "https://willow.cric-streamiing.repl.co/",
+         "link": "https://hls.streambtw.com/live/stream_e1.m3u8",
+          "web": "https://hls.streambtw.com/live/stream_e1.m3u8",
           "isRedirect": false
         }
       ]
