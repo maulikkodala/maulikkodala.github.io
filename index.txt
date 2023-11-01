@@ -5,8 +5,8 @@
     
   
  {
-      "match_name": "Pakistan vs Bangladesh (31 Oct)",
-      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-pakistan-vs-bangladesh-icc-mens-cwc-2023-0-2023-8-23-t-21-27-5.jpg",
+      "match_name": "New Zealand vs South Africa (1 Nov)",
+      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-new-zealand-vs-south-africa-icc-mens-cwc-2023-0-2023-8-23-t-20-22-18.jpg",
       "tv_name": "fan_code",
       "urls": [
       {
