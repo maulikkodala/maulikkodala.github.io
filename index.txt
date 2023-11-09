@@ -5,8 +5,8 @@
     
   
  {
-      "match_name": "England vs Netherlands (8th Nov)",
-      "banner": "https://ticketsearch.in/wp-content/uploads/2023/09/eng-vs-ned-tickets.webp",
+      "match_name": "New Zealand vs Sri Lanka (9th Nov)",
+      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-new-zealand-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-22-29-36.jpg",
       "tv_name": "fan_code",
       "urls": [
       {
