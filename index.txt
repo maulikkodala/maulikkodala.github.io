@@ -5,8 +5,8 @@
     
   
  {
-      "match_name": "New Zealand vs Sri Lanka (9th Nov)",
-      "banner": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-new-zealand-vs-sri-lanka-icc-mens-cwc-2023-0-2023-8-23-t-22-29-36.jpg",
+      "match_name": "South Africa vs Afghanistan (10th Nov)",
+      "banner": "https://i0.wp.com/ticketsearch.in/wp-content/uploads/2023/08/south-africa-vs-afghanistan-cwc-tickets.webp",
       "tv_name": "fan_code",
       "urls": [
       {
