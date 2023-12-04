@@ -4,13 +4,13 @@
 "match": [
 {
 "name": "ICC Cricket World Cup 2023",
-"image": "https://img.onesignal.com/tmp/0784d830-b73f-46ac-99a2-d48c8dc0477d/G7wNdxWRTJmUgkK95yZH_wwwwww%201.png",
+"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-india-vs-south-africa-icc-mens-cwc-2023-0-2023-8-28-t-9-5-11.jpg",
 "link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 },
 {
 "name": "Zimbabwe tour of Namibia 2023",
-"image": "https://img.onesignal.com/tmp/69541054-b4fc-4ea0-b7c8-916f3e6f6897/q3qLlRf0QqOLrotCkBDo_Rectangle%209.png",
+"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-india-vs-south-africa-icc-mens-cwc-2023-0-2023-8-28-t-9-5-11.jpg",
 "link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 }
