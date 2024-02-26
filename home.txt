@@ -3,14 +3,14 @@
 "banner": "https://ramappsdeveloper.com/inhouse/tv/assets/images/Sports.png",
 "match": [
 {
-"name": "ICC Cricket World Cup 2023",
-"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-india-vs-south-africa-icc-mens-cwc-2023-0-2023-8-28-t-9-5-11.jpg",
+"name": "Women's Premier League",
+"image": "https://img.onesignal.com/tmp/ec06bb63-fde4-4c1e-b6b6-66964ca5c8d2/AOV8NIXQfiX2KUmYt4qA_image%2054.png",
 "link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 },
 {
-"name": "Zimbabwe tour of Namibia 2023",
-"image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-india-vs-south-africa-icc-mens-cwc-2023-0-2023-8-28-t-9-5-11.jpg",
+"name": "India vs England Test Series",
+"image": "https://img.onesignal.com/tmp/6899326b-8965-442f-856b-d269e27585aa/tEYv0KINQFuWP4Tt1FzH_image%2055.png",
 "link" : "https://maulikkodala.github.io/index.txt",
 "ischeck": false
 }
